@@ -1,9 +1,17 @@
 Oracle's 700 Page Guide Book  
 https://mylearn.oracle.com/ou/ekit/161438/163295/4921d49d-bb18-4663-8163-1e05b04ce606/course
+
 Oracle Autonomous AI Database Professional Workshop (Student Guide)
 https://mylearn.oracle.com/ekit/161438/163295/4921d49d-bb18-4663-8163-1e05b04ce606/course
 Oracle Autonomous AI Database Professional Workshop (Activity Guide)
 https://mylearn.oracle.com/ekit/161438/163295/afff02e8-d499-41a4-ac34-b3bb5e62dbcb/course
+Oracle Autonomous AI Database Serverless Documentation
+https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/index.html
+
+Oracle Cloud Infrastructure Foundations: Hands-on Workshop (Student Guide)
+https://mylearn.oracle.com/ou/ekit/163542/163295/328fc127-f685-4953-8498-80d8080438b2/course
+Oracle Cloud Infrastructure Foundations: Hands-on Workshop (Activity Guide)
+https://mylearn.oracle.com/ou/ekit/163542/163295/38eb7b7a-0f10-423b-b4b8-c29d69e1f115/course
 
 Oracle Autonomous AI Database Serverless Documentation
 https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/index.html
