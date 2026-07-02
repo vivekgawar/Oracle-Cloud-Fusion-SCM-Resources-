@@ -13,8 +13,5 @@ https://mylearn.oracle.com/ou/ekit/163542/163295/328fc127-f685-4953-8498-80d8080
 Oracle Cloud Infrastructure Foundations: Hands-on Workshop (Activity Guide)
 https://mylearn.oracle.com/ou/ekit/163542/163295/38eb7b7a-0f10-423b-b4b8-c29d69e1f115/course
 
-Oracle Autonomous AI Database Serverless Documentation
-https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/index.html
-
 Any other documentation from oracle(we can search the topic):
 https://docs.oracle.com/en/
